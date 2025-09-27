@@ -50,3 +50,6 @@ yarn-error.log*
 
 # The generated Xcode project (since it can be regenerated)
 ../YouTubeShortsBlocker/
+
+# Safari generated metadata
+_metadata/
